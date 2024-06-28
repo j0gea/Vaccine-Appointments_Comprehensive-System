@@ -27,20 +27,14 @@ DB(오라클) 실제 구현
 
 동작화면
 --
-(1) 시작 화면
-![image](https://github.com/j0gea/Vaccine-Appointments_Comprehensive-System-/assets/137410154/8b4b5e5c-0a77-4742-8f1d-b8627629d31a)
-(2) 회원 접속 후, 기본 화면 
-![image](https://github.com/j0gea/Vaccine-Appointments_Comprehensive-System-/assets/137410154/50498832-5543-45bc-9edc-d739b57e8d38)
+![image](https://github.com/j0gea/Vaccine-Appointments_Comprehensive-System-/assets/137410154/1790ed60-5ecd-44e4-ac0b-bcd353e50932)
+![image](https://github.com/j0gea/Vaccine-Appointments_Comprehensive-System-/assets/137410154/ecb36395-64bc-41cf-b630-e6886c4f4615)
+![image](https://github.com/j0gea/Vaccine-Appointments_Comprehensive-System-/assets/137410154/c93ebb44-df0e-4f39-b0dc-90e64c62ed5f)
+![image](https://github.com/j0gea/Vaccine-Appointments_Comprehensive-System-/assets/137410154/ad96948f-8267-486f-ab04-b1115037a8c8)
+![image](https://github.com/j0gea/Vaccine-Appointments_Comprehensive-System-/assets/137410154/8cf9efb8-0045-41e3-a4cf-9354daf7fa8c)
+![image](https://github.com/j0gea/Vaccine-Appointments_Comprehensive-System-/assets/137410154/8abd49d6-4076-40b7-9aa8-5713e5fb366e)
+![image](https://github.com/j0gea/Vaccine-Appointments_Comprehensive-System-/assets/137410154/fb562b4c-fdea-41e7-9dd5-b97358f5ba72)
 
-(3) 백신 예약 화면 
 
-![image](https://github.com/j0gea/Vaccine-Appointments_Comprehensive-System-/assets/137410154/281b437e-3133-4048-90b7-8cebd780ad82)
-
-![image](https://github.com/j0gea/Vaccine-Appointments_Comprehensive-System-/assets/137410154/0dbc33b5-bc45-44b1-8728-47bad8920c51)
-
-![image](https://github.com/j0gea/Vaccine-Appointments_Comprehensive-System-/assets/137410154/02c1f682-f9c1-4cd2-8fb0-dc098852d1ad)
-
-(4) 관리자 접속 화면
-![image](https://github.com/j0gea/Vaccine-Appointments_Comprehensive-System-/assets/137410154/76d88de8-a20e-452c-bfb8-c909166a757e)
 
 
